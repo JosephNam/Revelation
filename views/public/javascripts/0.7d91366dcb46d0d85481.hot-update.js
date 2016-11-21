@@ -1,0 +1,9 @@
+webpackHotUpdate(0,[
+/* 0 */,
+/* 1 */
+/***/ function(module, exports, __webpack_require__) {
+
+	eval("'use strict';\n\nvar _react = __webpack_require__(2);\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = __webpack_require__(33);\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\nvar _PlayerContainer = __webpack_require__(179);\n\nvar _PlayerContainer2 = _interopRequireDefault(_PlayerContainer);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar Root = function Root() {\n  return _react2.default.createElement(\n    'div',\n    { className: 'container' },\n    _react2.default.createElement(_PlayerContainer2.default, null)\n  );\n};\n_reactDom2.default.render(_react2.default.createElement(Root, null), document.getElementById('content'));//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jbGllbnQvaW5kZXguanM/ZWFiNCJdLCJuYW1lcyI6WyJSb290IiwicmVuZGVyIiwiZG9jdW1lbnQiLCJnZXRFbGVtZW50QnlJZCJdLCJtYXBwaW5ncyI6Ijs7QUFBQTs7OztBQUNBOzs7O0FBRUE7Ozs7OztBQUVBLElBQU1BLE9BQU8sU0FBUEEsSUFBTztBQUFBLFNBQ1g7QUFBQTtBQUFBLE1BQUssV0FBVSxXQUFmO0FBQ0U7QUFERixHQURXO0FBQUEsQ0FBYjtBQUtBLG1CQUFTQyxNQUFULENBQWdCLDhCQUFDLElBQUQsT0FBaEIsRUFBMEJDLFNBQVNDLGNBQVQsQ0FBd0IsU0FBeEIsQ0FBMUIiLCJmaWxlIjoiMS5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCdcbmltcG9ydCBSZWFjdERPTSBmcm9tICdyZWFjdC1kb20nXG5cbmltcG9ydCBQbGF5ZXJDb250YWluZXIgZnJvbSAnLi9hdWRpb3BsYXllci9QbGF5ZXJDb250YWluZXInXG5cbmNvbnN0IFJvb3QgPSAoKSA9PiAoXG4gIDxkaXYgY2xhc3NOYW1lPVwiY29udGFpbmVyXCI+XG4gICAgPFBsYXllckNvbnRhaW5lciAvPlxuICA8L2Rpdj5cbilcblJlYWN0RE9NLnJlbmRlcig8Um9vdCAvPiwgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvbnRlbnQnKSlcblxuXG5cbi8vIFdFQlBBQ0sgRk9PVEVSIC8vXG4vLyAuL2NsaWVudC9pbmRleC5qcyJdLCJzb3VyY2VSb290IjoiIn0=");
+
+/***/ }
+])
